@@ -1,4 +1,12 @@
 # blog
-hello 这是我的博客\n
-open source\n
+hello 这是我的博客
+
+open source
+
 开源万岁
+
+**你好我好大家好。
+今天又是元气满满的一天啊！
+今日宜：编程
+不宜：躺平**
+
